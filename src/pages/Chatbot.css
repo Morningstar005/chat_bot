@@ -1,0 +1,59 @@
+.react-chatbot-kit-chat-container {
+    width:auto;
+    height: 100vh;
+    overflow-y: hidden;
+    background-color: white;
+    position: relative;
+}
+
+.react-chatbot-kit-chat-inner-container {
+    padding: 1px;
+}
+
+.react-chatbot-kit-chat-header {
+    background-color: #bfdbfe;
+    justify-content: center;
+}
+
+.react-chatbot-kit-chat-input-container {
+    background-color: #bfdbfe;
+    padding: 0.25rem;
+    margin-bottom: 0;
+}
+
+.react-chatbot-kit-chat-message-container {
+    /* background-color: aqua; */
+    height: 100vh;
+}
+
+.react-chatbot-kit-chat-input::placeholder {
+    font: bold;
+    font-size: large;
+    color: black;
+}
+
+.react-chatbot-kit-chat-bot-message-container {
+    width: 245px;
+
+}
+
+.react-chatbot-kit-chat-bot-message {
+    font-style: italic;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.react-datetime-picker__wrapper{
+    background-color:rgb(191 219 254 );
+    width: 16rem;
+    margin-left: 2.75rem;
+    position: relative;
+    display: flex;
+    border: none;
+}
+
+
+.react-datetime-picker__inputGroup{
+    background-color:rgb(207, 228, 255);
+}
+
